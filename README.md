@@ -5,6 +5,6 @@ Color themes usable with Sublime, TextWrangler, BBEdit, batcat.
 
 
 
-# License
+## License
 Unlicensed, free for all.
 
